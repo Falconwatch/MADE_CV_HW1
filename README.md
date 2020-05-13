@@ -1,3 +1,3 @@
 # MADE_CV_HW1
 
-![Скриншот с LB](скриншот сабмишн.PNG)
+![Скриншот с LB](images/screen_lb.PNG)
